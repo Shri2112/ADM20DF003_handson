@@ -1,0 +1,14 @@
+C:\Users\hp\Documents\Threading Pratice\ThreadStartSample\bin\Debug\ThreadStartSample.exe.config
+C:\Users\hp\Documents\Threading Pratice\ThreadStartSample\bin\Debug\ThreadStartSample.exe
+C:\Users\hp\Documents\Threading Pratice\ThreadStartSample\bin\Debug\ThreadStartSample.pdb
+C:\Users\hp\Documents\Threading Pratice\ThreadStartSample\obj\Debug\ThreadStartSample.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Threading Pratice\ThreadStartSample\obj\Debug\ThreadStartSample.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Threading Pratice\ThreadStartSample\obj\Debug\ThreadStartSample.exe
+C:\Users\hp\Documents\Threading Pratice\ThreadStartSample\obj\Debug\ThreadStartSample.pdb
+C:\Users\hp\source\repos\ThreadStartSample\bin\Debug\ThreadStartSample.exe.config
+C:\Users\hp\source\repos\ThreadStartSample\bin\Debug\ThreadStartSample.exe
+C:\Users\hp\source\repos\ThreadStartSample\bin\Debug\ThreadStartSample.pdb
+C:\Users\hp\source\repos\ThreadStartSample\obj\Debug\ThreadStartSample.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ThreadStartSample\obj\Debug\ThreadStartSample.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ThreadStartSample\obj\Debug\ThreadStartSample.exe
+C:\Users\hp\source\repos\ThreadStartSample\obj\Debug\ThreadStartSample.pdb

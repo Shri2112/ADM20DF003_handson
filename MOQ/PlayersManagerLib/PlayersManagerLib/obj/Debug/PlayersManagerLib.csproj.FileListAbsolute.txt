@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.dll
+C:\Users\hp\source\repos\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.pdb
+C:\Users\hp\source\repos\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.dll
+C:\Users\hp\source\repos\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.pdb

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\AsyncAwait1\AsyncAwait1\bin\Debug\AsyncAwait1.exe.config
+C:\Users\hp\source\repos\AsyncAwait1\AsyncAwait1\bin\Debug\AsyncAwait1.exe
+C:\Users\hp\source\repos\AsyncAwait1\AsyncAwait1\bin\Debug\AsyncAwait1.pdb
+C:\Users\hp\source\repos\AsyncAwait1\AsyncAwait1\obj\Debug\AsyncAwait1.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\AsyncAwait1\AsyncAwait1\obj\Debug\AsyncAwait1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AsyncAwait1\AsyncAwait1\obj\Debug\AsyncAwait1.exe
+C:\Users\hp\source\repos\AsyncAwait1\AsyncAwait1\obj\Debug\AsyncAwait1.pdb

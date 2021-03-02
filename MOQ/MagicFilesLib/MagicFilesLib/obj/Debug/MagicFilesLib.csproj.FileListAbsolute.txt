@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.dll
+C:\Users\hp\source\repos\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.pdb
+C:\Users\hp\source\repos\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.dll
+C:\Users\hp\source\repos\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.pdb
