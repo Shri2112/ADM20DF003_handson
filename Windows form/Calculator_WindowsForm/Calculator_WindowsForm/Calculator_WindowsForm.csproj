@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E149540E-C677-4FCD-B0F0-FFCF90D2327A}</ProjectGuid>
+    <ProjectGuid>{AE4AC5A3-50C5-4D8C-B526-C78267B859A2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>WindowsFormAsyncHandson</RootNamespace>
-    <AssemblyName>WindowsFormAsyncHandson</AssemblyName>
+    <RootNamespace>Calculator_WindowsForm</RootNamespace>
+    <AssemblyName>Calculator_WindowsForm</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

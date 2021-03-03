@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Calculator_WindowsForm\Calculator_WindowsForm\bin\Debug\Calculator_WindowsForm.exe.config
+C:\Users\hp\source\repos\Calculator_WindowsForm\Calculator_WindowsForm\bin\Debug\Calculator_WindowsForm.exe
+C:\Users\hp\source\repos\Calculator_WindowsForm\Calculator_WindowsForm\bin\Debug\Calculator_WindowsForm.pdb
+C:\Users\hp\source\repos\Calculator_WindowsForm\Calculator_WindowsForm\obj\Debug\Calculator_WindowsForm.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Calculator_WindowsForm\Calculator_WindowsForm\obj\Debug\Calculator_WindowsForm.Form1.resources
+C:\Users\hp\source\repos\Calculator_WindowsForm\Calculator_WindowsForm\obj\Debug\Calculator_WindowsForm.Properties.Resources.resources
+C:\Users\hp\source\repos\Calculator_WindowsForm\Calculator_WindowsForm\obj\Debug\Calculator_WindowsForm.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Calculator_WindowsForm\Calculator_WindowsForm\obj\Debug\Calculator_WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Calculator_WindowsForm\Calculator_WindowsForm\obj\Debug\Calculator_WindowsForm.exe
+C:\Users\hp\source\repos\Calculator_WindowsForm\Calculator_WindowsForm\obj\Debug\Calculator_WindowsForm.pdb
