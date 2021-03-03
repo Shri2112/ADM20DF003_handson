@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsImageHandson", "WindowsFormsImageHandson.csproj", "{F22F73A4-A8A2-4345-B78A-94A9A9FFBD1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F22F73A4-A8A2-4345-B78A-94A9A9FFBD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22F73A4-A8A2-4345-B78A-94A9A9FFBD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22F73A4-A8A2-4345-B78A-94A9A9FFBD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22F73A4-A8A2-4345-B78A-94A9A9FFBD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1315E890-34D6-4FBB-B96E-2E623748F604}
+	EndGlobalSection
+EndGlobal

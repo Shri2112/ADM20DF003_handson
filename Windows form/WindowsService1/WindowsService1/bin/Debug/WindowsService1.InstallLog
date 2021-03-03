@@ -1,0 +1,107 @@
+﻿Installing assembly 'D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service MyWinService...
+Service MyWinService has been successfully installed.
+Creating EventLog source MyWinService in log Application...
+Committing assembly 'D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source MyWinService.
+Service MyWinService is being removed from the system...
+Service MyWinService was successfully removed from the system.
+Installing assembly 'D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service MyWinService...
+Service MyWinService has been successfully installed.
+Creating EventLog source MyWinService in log Application...
+Committing assembly 'D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source MyWinService.
+Service MyWinService is being removed from the system...
+Service MyWinService was successfully removed from the system.
+Installing assembly 'D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service MyWinService...
+Service MyWinService has been successfully installed.
+Creating EventLog source MyWinService in log Application...
+Committing assembly 'D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source MyWinService.
+Service MyWinService is being removed from the system...
+Service MyWinService was successfully removed from the system.
+Installing assembly 'D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service MyWinService...
+Service MyWinService has been successfully installed.
+Creating EventLog source MyWinService in log Application...
+Committing assembly 'D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source MyWinService.
+Service MyWinService is being removed from the system...
+Service MyWinService was successfully removed from the system.
+Installing assembly 'D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service MyWinService...
+Service MyWinService has been successfully installed.
+Creating EventLog source MyWinService in log Application...
+Committing assembly 'D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 

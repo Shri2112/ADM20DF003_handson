@@ -1,0 +1,8 @@
+D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+D:\C#\Stage_3Handsons\4_WinServices_Handson\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb

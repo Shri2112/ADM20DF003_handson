@@ -1,0 +1,20 @@
+C:\Users\hp\Documents\Cognizant Pratice\Windows For Pratice\WindowsFormsImageHandson\bin\Debug\WindowsFormsImageHandson.exe.config
+C:\Users\hp\Documents\Cognizant Pratice\Windows For Pratice\WindowsFormsImageHandson\bin\Debug\WindowsFormsImageHandson.exe
+C:\Users\hp\Documents\Cognizant Pratice\Windows For Pratice\WindowsFormsImageHandson\bin\Debug\WindowsFormsImageHandson.pdb
+C:\Users\hp\Documents\Cognizant Pratice\Windows For Pratice\WindowsFormsImageHandson\obj\Debug\WindowsFormsImageHandson.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Cognizant Pratice\Windows For Pratice\WindowsFormsImageHandson\obj\Debug\WindowsFormsImageHandson.Form1.resources
+C:\Users\hp\Documents\Cognizant Pratice\Windows For Pratice\WindowsFormsImageHandson\obj\Debug\WindowsFormsImageHandson.Properties.Resources.resources
+C:\Users\hp\Documents\Cognizant Pratice\Windows For Pratice\WindowsFormsImageHandson\obj\Debug\WindowsFormsImageHandson.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Cognizant Pratice\Windows For Pratice\WindowsFormsImageHandson\obj\Debug\WindowsFormsImageHandson.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Cognizant Pratice\Windows For Pratice\WindowsFormsImageHandson\obj\Debug\WindowsFormsImageHandson.exe
+C:\Users\hp\Documents\Cognizant Pratice\Windows For Pratice\WindowsFormsImageHandson\obj\Debug\WindowsFormsImageHandson.pdb
+C:\Users\hp\source\repos\WindowsFormsImageHandson\bin\Debug\WindowsFormsImageHandson.exe.config
+C:\Users\hp\source\repos\WindowsFormsImageHandson\bin\Debug\WindowsFormsImageHandson.exe
+C:\Users\hp\source\repos\WindowsFormsImageHandson\bin\Debug\WindowsFormsImageHandson.pdb
+C:\Users\hp\source\repos\WindowsFormsImageHandson\obj\Debug\WindowsFormsImageHandson.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\WindowsFormsImageHandson\obj\Debug\WindowsFormsImageHandson.Form1.resources
+C:\Users\hp\source\repos\WindowsFormsImageHandson\obj\Debug\WindowsFormsImageHandson.Properties.Resources.resources
+C:\Users\hp\source\repos\WindowsFormsImageHandson\obj\Debug\WindowsFormsImageHandson.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\WindowsFormsImageHandson\obj\Debug\WindowsFormsImageHandson.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WindowsFormsImageHandson\obj\Debug\WindowsFormsImageHandson.exe
+C:\Users\hp\source\repos\WindowsFormsImageHandson\obj\Debug\WindowsFormsImageHandson.pdb
