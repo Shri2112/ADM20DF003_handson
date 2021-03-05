@@ -1,0 +1,17 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<String>
+@foreach (var s in Model)
+{
+    if (s == "Amazon")
+    {
+        <p><b>@Html.DisplayFor(m => s)</b></p>
+    }
+    else
+    {
+        <p>@Html.DisplayFor(m => s)</p>
+    }
+}
