@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMedicine", "GenericMedicine\GenericMedicine.csproj", "{FC9B306D-2118-4DE5-92CC-E6F519B12748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGenericMedicine", "TestGenericMedicine\TestGenericMedicine.csproj", "{1EFAAF02-DB8D-4CEA-9074-796DAF24402D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC9B306D-2118-4DE5-92CC-E6F519B12748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9B306D-2118-4DE5-92CC-E6F519B12748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9B306D-2118-4DE5-92CC-E6F519B12748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9B306D-2118-4DE5-92CC-E6F519B12748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFAAF02-DB8D-4CEA-9074-796DAF24402D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFAAF02-DB8D-4CEA-9074-796DAF24402D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFAAF02-DB8D-4CEA-9074-796DAF24402D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFAAF02-DB8D-4CEA-9074-796DAF24402D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CAAEC9F-55B8-437C-93E6-0FF92E634CF7}
+	EndGlobalSection
+EndGlobal

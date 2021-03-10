@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\FirstConsoleApplication\\FirstConsoleApplication\\FirstConsoleApplication.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\ADM20DF003_handson\\ASP.Net Core\\Day4_ASP.Net Core_Handson\\FirstConsoleApplication\\FirstConsoleApplication\\FirstConsoleApplication.csproj",
       "projectName": "FirstConsoleApplication",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\FirstConsoleApplication\\FirstConsoleApplication\\FirstConsoleApplication.csproj",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\ADM20DF003_handson\\ASP.Net Core\\Day4_ASP.Net Core_Handson\\FirstConsoleApplication\\FirstConsoleApplication\\FirstConsoleApplication.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\FirstConsoleApplication\\FirstConsoleApplication\\obj\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\ADM20DF003_handson\\ASP.Net Core\\Day4_ASP.Net Core_Handson\\FirstConsoleApplication\\FirstConsoleApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }
