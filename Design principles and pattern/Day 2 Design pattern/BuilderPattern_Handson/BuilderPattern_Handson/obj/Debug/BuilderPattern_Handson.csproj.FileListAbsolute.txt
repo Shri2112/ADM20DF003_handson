@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\BuilderPattern_Handson\BuilderPattern_Handson\bin\Debug\BuilderPattern_Handson.exe.config
+C:\Users\hp\source\repos\BuilderPattern_Handson\BuilderPattern_Handson\bin\Debug\BuilderPattern_Handson.exe
+C:\Users\hp\source\repos\BuilderPattern_Handson\BuilderPattern_Handson\bin\Debug\BuilderPattern_Handson.pdb
+C:\Users\hp\source\repos\BuilderPattern_Handson\BuilderPattern_Handson\obj\Debug\BuilderPattern_Handson.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\BuilderPattern_Handson\BuilderPattern_Handson\obj\Debug\BuilderPattern_Handson.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BuilderPattern_Handson\BuilderPattern_Handson\obj\Debug\BuilderPattern_Handson.exe
+C:\Users\hp\source\repos\BuilderPattern_Handson\BuilderPattern_Handson\obj\Debug\BuilderPattern_Handson.pdb

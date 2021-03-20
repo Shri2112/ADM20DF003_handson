@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\AbstractFactory_Handson\AbstractFactory_Handson\bin\Debug\AbstractFactory_Handson.exe.config
+C:\Users\hp\source\repos\AbstractFactory_Handson\AbstractFactory_Handson\bin\Debug\AbstractFactory_Handson.exe
+C:\Users\hp\source\repos\AbstractFactory_Handson\AbstractFactory_Handson\bin\Debug\AbstractFactory_Handson.pdb
+C:\Users\hp\source\repos\AbstractFactory_Handson\AbstractFactory_Handson\obj\Debug\AbstractFactory_Handson.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\AbstractFactory_Handson\AbstractFactory_Handson\obj\Debug\AbstractFactory_Handson.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AbstractFactory_Handson\AbstractFactory_Handson\obj\Debug\AbstractFactory_Handson.exe
+C:\Users\hp\source\repos\AbstractFactory_Handson\AbstractFactory_Handson\obj\Debug\AbstractFactory_Handson.pdb
+C:\Users\hp\source\repos\Design principles and pattern\Day 2 Design pattern\AbstractFactory_Handson\AbstractFactory_Handson\bin\Debug\AbstractFactory_Handson.exe.config
+C:\Users\hp\source\repos\Design principles and pattern\Day 2 Design pattern\AbstractFactory_Handson\AbstractFactory_Handson\bin\Debug\AbstractFactory_Handson.exe
+C:\Users\hp\source\repos\Design principles and pattern\Day 2 Design pattern\AbstractFactory_Handson\AbstractFactory_Handson\bin\Debug\AbstractFactory_Handson.pdb
+C:\Users\hp\source\repos\Design principles and pattern\Day 2 Design pattern\AbstractFactory_Handson\AbstractFactory_Handson\obj\Debug\AbstractFactory_Handson.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Design principles and pattern\Day 2 Design pattern\AbstractFactory_Handson\AbstractFactory_Handson\obj\Debug\AbstractFactory_Handson.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Design principles and pattern\Day 2 Design pattern\AbstractFactory_Handson\AbstractFactory_Handson\obj\Debug\AbstractFactory_Handson.exe
+C:\Users\hp\source\repos\Design principles and pattern\Day 2 Design pattern\AbstractFactory_Handson\AbstractFactory_Handson\obj\Debug\AbstractFactory_Handson.pdb

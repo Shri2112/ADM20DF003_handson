@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\AdapterPattern_Handson\AdapterPattern_Handson\bin\Debug\AdapterPattern_Handson.exe.config
+C:\Users\hp\source\repos\AdapterPattern_Handson\AdapterPattern_Handson\bin\Debug\AdapterPattern_Handson.exe
+C:\Users\hp\source\repos\AdapterPattern_Handson\AdapterPattern_Handson\bin\Debug\AdapterPattern_Handson.pdb
+C:\Users\hp\source\repos\AdapterPattern_Handson\AdapterPattern_Handson\obj\Debug\AdapterPattern_Handson.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\AdapterPattern_Handson\AdapterPattern_Handson\obj\Debug\AdapterPattern_Handson.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AdapterPattern_Handson\AdapterPattern_Handson\obj\Debug\AdapterPattern_Handson.exe
+C:\Users\hp\source\repos\AdapterPattern_Handson\AdapterPattern_Handson\obj\Debug\AdapterPattern_Handson.pdb

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\FacadePattern_Handson\FacadePattern_Handson\bin\Debug\FacadePattern_Handson.exe.config
+C:\Users\hp\source\repos\FacadePattern_Handson\FacadePattern_Handson\bin\Debug\FacadePattern_Handson.exe
+C:\Users\hp\source\repos\FacadePattern_Handson\FacadePattern_Handson\bin\Debug\FacadePattern_Handson.pdb
+C:\Users\hp\source\repos\FacadePattern_Handson\FacadePattern_Handson\obj\Debug\FacadePattern_Handson.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\FacadePattern_Handson\FacadePattern_Handson\obj\Debug\FacadePattern_Handson.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FacadePattern_Handson\FacadePattern_Handson\obj\Debug\FacadePattern_Handson.exe
+C:\Users\hp\source\repos\FacadePattern_Handson\FacadePattern_Handson\obj\Debug\FacadePattern_Handson.pdb

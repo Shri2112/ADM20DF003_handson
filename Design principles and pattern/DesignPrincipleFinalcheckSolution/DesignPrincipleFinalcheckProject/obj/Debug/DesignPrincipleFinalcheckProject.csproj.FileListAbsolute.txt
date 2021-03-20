@@ -1,0 +1,7 @@
+C:\Users\SUPRITH\source\repos\day14\DesignPrincipleFinalcheckSolution\DesignPrincipleFinalcheckProject\bin\Debug\DesignPrincipleFinalcheckProject.exe.config
+C:\Users\SUPRITH\source\repos\day14\DesignPrincipleFinalcheckSolution\DesignPrincipleFinalcheckProject\bin\Debug\DesignPrincipleFinalcheckProject.exe
+C:\Users\SUPRITH\source\repos\day14\DesignPrincipleFinalcheckSolution\DesignPrincipleFinalcheckProject\bin\Debug\DesignPrincipleFinalcheckProject.pdb
+C:\Users\SUPRITH\source\repos\day14\DesignPrincipleFinalcheckSolution\DesignPrincipleFinalcheckProject\obj\Debug\DesignPrincipleFinalcheckProject.csprojAssemblyReference.cache
+C:\Users\SUPRITH\source\repos\day14\DesignPrincipleFinalcheckSolution\DesignPrincipleFinalcheckProject\obj\Debug\DesignPrincipleFinalcheckProject.csproj.CoreCompileInputs.cache
+C:\Users\SUPRITH\source\repos\day14\DesignPrincipleFinalcheckSolution\DesignPrincipleFinalcheckProject\obj\Debug\DesignPrincipleFinalcheckProject.exe
+C:\Users\SUPRITH\source\repos\day14\DesignPrincipleFinalcheckSolution\DesignPrincipleFinalcheckProject\obj\Debug\DesignPrincipleFinalcheckProject.pdb
