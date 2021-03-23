@@ -1,0 +1,377 @@
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\log4net.config
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\appsettings.json
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.exe
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.deps.json
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.runtimeconfig.json
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.runtimeconfig.dev.json
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.pdb
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.Views.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.Views.pdb
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\log4net.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.AssemblyInfoInputs.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.AssemblyInfo.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.csproj.CoreCompileInputs.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.RazorAssemblyInfo.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.RazorAssemblyInfo.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\staticwebassets\HandsOn_Log4Net.StaticWebAssets.Manifest.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\staticwebassets\HandsOn_Log4Net.StaticWebAssets.xml
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\scopedcss\bundle\HandsOn_Log4Net.styles.css
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.TagHelpers.input.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.TagHelpers.output.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.RazorCoreGenerate.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.RazorTargetAssemblyInfo.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.RazorTargetAssemblyInfo.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.Views.pdb
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.csproj.CopyComplete
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.pdb
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.genruntimeconfig.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CustomException.cshtml.g.cs
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.exe
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.deps.json
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.runtimeconfig.json
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.runtimeconfig.dev.json
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.pdb
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.Views.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.Views.pdb
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.AssemblyInfo.cs
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.RazorAssemblyInfo.cache
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.RazorAssemblyInfo.cs
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\staticwebassets\HandsOn_Log4Net.StaticWebAssets.Manifest.cache
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\staticwebassets\HandsOn_Log4Net.StaticWebAssets.xml
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\scopedcss\bundle\HandsOn_Log4Net.styles.css
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.TagHelpers.input.cache
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.TagHelpers.output.cache
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.RazorCoreGenerate.cache
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CustomException.cshtml.g.cs
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.Views.pdb
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.csproj.CopyComplete
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.dll
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.pdb
+C:\Users\hp\Downloads\6 HandsOn_Log4Net - 1\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.genruntimeconfig.cache
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.exe
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.deps.json
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.runtimeconfig.json
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.runtimeconfig.dev.json
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.pdb
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.Views.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\HandsOn_Log4Net.Views.pdb
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.AssemblyInfo.cs
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\staticwebassets\HandsOn_Log4Net.StaticWebAssets.Manifest.cache
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\staticwebassets\HandsOn_Log4Net.StaticWebAssets.xml
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\scopedcss\bundle\HandsOn_Log4Net.styles.css
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.TagHelpers.input.cache
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.TagHelpers.output.cache
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.RazorCoreGenerate.cache
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CustomException.cshtml.g.cs
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.RazorTargetAssemblyInfo.cs
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.Views.pdb
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.csproj.CopyComplete
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.dll
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.pdb
+C:\Users\hp\source\repos\ADM20DF003_handson\ASP.Net Core\Day6_ASP.Net Core_Handson\6 HandsOn_Log4Net\HandsOn_Log4Net\obj\Debug\netcoreapp3.1\HandsOn_Log4Net.genruntimeconfig.cache
